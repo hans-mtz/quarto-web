@@ -171,3 +171,10 @@
   author: '[Fred Guth](https://github.com/fredguth/)'
   description: |
     Manuscript template inspired by the style of the books from Edward R. Tufte
+
+- name: westernthesis
+  path: https://github.com/hans-mtz/QuartoWesternThesis
+  author: '[Hans Martinez](https://github.com/hans-mtz)'
+  description: >
+    PDF thesis template for the University of Western Ontario, following the SGPS
+    2026 Procedure for Thesis Formats and Content and the SGPS Word template.
